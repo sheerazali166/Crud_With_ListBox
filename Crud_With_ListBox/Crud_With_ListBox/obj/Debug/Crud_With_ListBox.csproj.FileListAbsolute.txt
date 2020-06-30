@@ -1,0 +1,9 @@
+D:\Visual Studio Applictions\Windows_Form_Apps\Crud_With_ListBox\Crud_With_ListBox\bin\Debug\Crud_With_ListBox.exe.config
+D:\Visual Studio Applictions\Windows_Form_Apps\Crud_With_ListBox\Crud_With_ListBox\bin\Debug\Crud_With_ListBox.exe
+D:\Visual Studio Applictions\Windows_Form_Apps\Crud_With_ListBox\Crud_With_ListBox\bin\Debug\Crud_With_ListBox.pdb
+D:\Visual Studio Applictions\Windows_Form_Apps\Crud_With_ListBox\Crud_With_ListBox\obj\Debug\Crud_With_ListBox.csprojAssemblyReference.cache
+D:\Visual Studio Applictions\Windows_Form_Apps\Crud_With_ListBox\Crud_With_ListBox\obj\Debug\Crud_With_ListBox.Form1.resources
+D:\Visual Studio Applictions\Windows_Form_Apps\Crud_With_ListBox\Crud_With_ListBox\obj\Debug\Crud_With_ListBox.Properties.Resources.resources
+D:\Visual Studio Applictions\Windows_Form_Apps\Crud_With_ListBox\Crud_With_ListBox\obj\Debug\Crud_With_ListBox.csproj.GenerateResource.cache
+D:\Visual Studio Applictions\Windows_Form_Apps\Crud_With_ListBox\Crud_With_ListBox\obj\Debug\Crud_With_ListBox.exe
+D:\Visual Studio Applictions\Windows_Form_Apps\Crud_With_ListBox\Crud_With_ListBox\obj\Debug\Crud_With_ListBox.pdb
